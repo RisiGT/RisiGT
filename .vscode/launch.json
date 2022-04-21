@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "Hola Mundo_64919f2"
+        },
+        {
+            "type": "java",
             "name": "Launch main",
             "request": "launch",
             "mainClass": "main",
